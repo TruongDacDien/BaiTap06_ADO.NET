@@ -1,0 +1,17 @@
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\bin\Debug\BussinessLayer.dll
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\bin\Debug\DataLayer.dll
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\bin\Debug\BussinessLayer.pdb
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\bin\Debug\DataLayer.pdb
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\obj\Debug\GUI.Frm_Main.resources
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Visual Studio\QuanLyGiaSuc\GUI\obj\Debug\GUI.pdb
